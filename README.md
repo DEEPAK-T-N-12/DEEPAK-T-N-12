@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DEEPAK-T-N-12
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning web development and AI/ML
-- 💞️ I’m looking to collaborate with product based software company
 - 📫 How to reach me ...deepakgowdatn12@gmail.com
 
 <!---
